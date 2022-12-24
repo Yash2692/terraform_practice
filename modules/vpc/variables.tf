@@ -1,0 +1,9 @@
+variable "region" {}
+variable "vpc_name" {}
+variable "vpc_cidr" {}
+variable "availability_zone1" {}
+variable "availability_zone2" {}
+variable "pub_subnet1_cidr" {}
+variable "pub_subnet2_cidr" {}
+variable "pri_subnet1_cidr" {}
+variable "pri_subnet2_cidr" {}
